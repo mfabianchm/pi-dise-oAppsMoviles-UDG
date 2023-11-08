@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828226318282",
+    "project_id": "auth-producto-integrador",
+    "storage_bucket": "auth-producto-integrador.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828226318282:android:d08cd20f7034122e90a933",
+        "android_client_info": {
+          "package_name": "com.example.producto_integrador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbe5mVBMr6bDw9TBwA3cbuWHEpB8qS9Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
